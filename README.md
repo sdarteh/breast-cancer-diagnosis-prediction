@@ -161,11 +161,10 @@ This repository contains the research project materials:
 
 ## Author
 
-**[Samuel Darteh](https://linkedin.com/in/sdartehpro)**
+**[Samuel Darteh](https://linkedin.com/in/sdartehpro)** <br> 
+LinkedIn: (https://linkedin.com/in/sdartehpro) <br>
+[Michigan Technological University](https://mtu.edu) | MS Data Science
 
-MS Data Science
-
-[Michigan Technological University](https://mtu.edu)
 
 ## Disclaimer
 
